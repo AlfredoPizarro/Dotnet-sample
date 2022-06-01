@@ -37,3 +37,4 @@
 /Users/alfredopizarro/support/test-dotnet/myWebApp/obj/Release/net5.0/myWebApp.pdb
 /Users/alfredopizarro/support/test-dotnet/myWebApp/obj/Release/net5.0/myWebApp.genruntimeconfig.cache
 /Users/alfredopizarro/support/test-dotnet/myWebApp/obj/Release/net5.0/myWebApp.csproj.CopyComplete
+/Users/alfredopizarro/support/test-dotnet/myWebApp/obj/Release/net5.0/Razor/Pages/health.cshtml.g.cs
